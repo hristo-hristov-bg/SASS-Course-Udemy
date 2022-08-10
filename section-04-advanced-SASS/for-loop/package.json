@@ -7,6 +7,6 @@
     "watch": "node-sass -o css scss -w"
   },
   "keywords": [],
-  "author": "",
+  "author": "Hristo Hristov",
   "license": "ISC"
 }
